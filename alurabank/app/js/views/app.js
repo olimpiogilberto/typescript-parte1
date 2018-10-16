@@ -1,3 +1,2 @@
-const negociacao = new Negociacao(new Date,1,100);
-negociacao._quantidade = 3;
+const negociacao = new Negociacao(new Date, 1, 100);
 console.log(negociacao.quantidade);
