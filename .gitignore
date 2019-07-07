@@ -1,3 +1,12 @@
-alurabank/node_modules/*
-alurabank/package-lock.json
+# dependencies
+Parte 1/alurabank/node_modules/*
+Parte 1/alurabank/package-lock.json
+Parte 1/alurabank/.DS_Store
 
+Parte 2/alurabank/node_modules/*
+Parte 2/alurabank/package-lock.json
+Parte 2/alurabank/.DS_Store
+
+#System Files
+.DS_Store
+Thumbs.db
